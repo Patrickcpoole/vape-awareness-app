@@ -1,14 +1,16 @@
-import { StyleSheet } from 'react-native';
-
+import { StyleSheet, Image } from 'react-native';
+import Colors from '@/src/constants/Colors';
 import EditScreenInfo from '@/src/components/EditScreenInfo';
 import { Text, View } from '@/src/components/Themed';
 
 export default function TabTwoScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Tab Two</Text>
-      <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
-      <EditScreenInfo path="app/(tabs)/two.tsx" />
+    <Image style={styles.image} source={require('../../../assets/vape-free-assets/stressy-depressy.jpg')}  />
+      <Text style={styles.title}>Quit Vaping</Text>
+      <Text style={styles.title}>Quitting can be tough,
+       but you are tougher. Use our info and resources to quit vaping and stay vape-free.
+       </Text>
     </View>
   );
 }
@@ -20,8 +22,13 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   title: {
-    fontSize: 20,
+    fontSize: 30,
     fontWeight: 'bold',
+    color: Colors.light.tint,
+  },
+  image: {
+    width: '100%',
+    aspectRatio: 1,
   },
   separator: {
     marginVertical: 30,

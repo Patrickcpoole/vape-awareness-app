@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Build My Quit Plan",
+    "text": "Make your personalized quit plan and get ready to quit vaping or smoking. Thinking ahead now can make things easier later.",
+    "image":"https://teen.smokefree.gov/sites/default/files/styles/landing_page_blocks/public/2020-06/shutterstock_1741950803.png?itok=jFFbEPLG"
+  },
+  {
+    "id": 2,
+    "title": "Vaping Reality Check",
+    "text": "Vaping may be costing you more than yo uthink. Knowing more can help you decide what to do about it",
+    "image":"https://teen.smokefree.gov/sites/default/files/styles/landing_page_blocks/public/featured_images/sf-vaping-tool-step1-750x315%20%281%29.jpg?itok=ZMImHZho"
+  },
+  {
+    "id": 3,
+    "title": "How to Quit Vaping",
+    "text": "Quitting vapes can be easier when you prepare in advance. Get tips and resources to help you quit for good.",
+    "image":"https://teen.smokefree.gov/sites/default/files/styles/landing_page_blocks/public/featured_images/How%20to%20Quit%20Vaping_2.jpg?itok=JqOY4Jbm"
+  },
+  {
+    "id": 4,
+    "title": "Your First Day Without Vaping",
+    "text": "The first day without vaping can be tough. Get tips and resources to help you get through it.",
+    "image":"https://teen.smokefree.gov/sites/default/files/styles/landing_page_blocks/public/featured_images/Your%20First%20Day%20Without%20Vapes_.jpg?itok=JE_lL629"
+  },
+  {
+    "id": 5,
+    "title": "Deal With Vape Cravings",
+    "text": "Cravings can be tough, but they don't last forever. Get tips and resources to help you deal with them.",
+    "image":"https://teen.smokefree.gov/sites/default/files/styles/landing_page_blocks/public/featured_images/deal_with_cravings.jpg?itok=-K0xJAVw"
+  },
+  {
+    "id": 6,
+    "title": "Understand Your Vape Triggers",
+    "text": "Triggers are the things that make you want to vape. Learn what your triggers are and how to deal with them.",
+    "image":"https://teen.smokefree.gov/sites/default/files/styles/landing_page_blocks/public/featured_images/Understand%20Your%20Vaping%20Triggers_.jpg?itok=69Q4bbTY"
+  },
+  {
+    "id": 7,
+    "title": "Vaping Addiction and Nicotine Withdrawal",
+    "text": "Nicotine is in most vapes, and it's addictive. Learn about nicotine withdrawal and how to deal with it.",
+    "image":"https://teen.smokefree.gov/sites/default/files/styles/landing_page_blocks/public/featured_images/Vaping%20Addiction%20%26%20Nicotine%20Withdrawal.jpg?itok=efTY0P9H"
+  },
+  {
+    "id": 8,
+    "title": "Anxiety, Stress, and Vaping",
+    "text": "Stress and anxiety can make it harder to quit vaping. Learn how to deal with stress and anxiety without vaping.",
+    "image":"https://teen.smokefree.gov/sites/default/files/styles/landing_page_blocks/public/featured_images/Anxiety%2C%20Stress%20%26%20Vaping_0.jpg?itok=7-GB1vm2"
+  },
+  {
+    "id": 9,
+    "title": "Depression and Vaping",
+    "text": "Some people vape when they are feeling sad or down. Learn how to deal with depression without vaping.",
+    "image":"https://teen.smokefree.gov/sites/default/files/styles/landing_page_blocks/public/featured_images/Depression%20%26%20Vaping.jpg?itok=trUzz12e"
+  }
+]
