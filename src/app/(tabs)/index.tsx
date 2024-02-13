@@ -1,7 +1,7 @@
 import { StyleSheet, Image } from 'react-native';
-import { Text, View } from '@/src/components/Themed';
-import sectionData from '../../../assets/data/sectionData.json';
-import SectionListItem from '@/src/components/SectionListItem';
+import { Text, View } from '@components/Themed';
+import sectionData from 'assets/data/sectionData.json';
+import SectionListItem from '@components/SectionListItem';
 
 
 export default function HomeScreen() {
