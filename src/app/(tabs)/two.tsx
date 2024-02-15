@@ -1,7 +1,7 @@
 import { StyleSheet, Image } from 'react-native';
-import Colors from '@/src/constants/Colors';
-import EditScreenInfo from '@/src/components/EditScreenInfo';
-import { Text, View } from '@/src/components/Themed';
+import Colors from '../../constants/Colors';
+import EditScreenInfo from '@components/EditScreenInfo';
+import { Text, View } from '@components/Themed';
 
 export default function TabTwoScreen() {
   return (
